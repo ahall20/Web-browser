@@ -1,0 +1,9 @@
+c:\users\wwstudent\documents\visual studio 2017\Projects\Reader\Reader\bin\Debug\Reader.exe.config
+c:\users\wwstudent\documents\visual studio 2017\Projects\Reader\Reader\bin\Debug\Reader.exe
+c:\users\wwstudent\documents\visual studio 2017\Projects\Reader\Reader\bin\Debug\Reader.pdb
+c:\users\wwstudent\documents\visual studio 2017\Projects\Reader\Reader\obj\Debug\Reader.csprojResolveAssemblyReference.cache
+c:\users\wwstudent\documents\visual studio 2017\Projects\Reader\Reader\obj\Debug\Reader.Form1.resources
+c:\users\wwstudent\documents\visual studio 2017\Projects\Reader\Reader\obj\Debug\Reader.Properties.Resources.resources
+c:\users\wwstudent\documents\visual studio 2017\Projects\Reader\Reader\obj\Debug\Reader.csproj.GenerateResource.Cache
+c:\users\wwstudent\documents\visual studio 2017\Projects\Reader\Reader\obj\Debug\Reader.exe
+c:\users\wwstudent\documents\visual studio 2017\Projects\Reader\Reader\obj\Debug\Reader.pdb
